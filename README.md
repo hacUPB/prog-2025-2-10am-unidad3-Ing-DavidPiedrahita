@@ -1,6 +1,6 @@
 # Repositorio Unidad \#
 ## Información del estudiante
-Nombre:  
-ID.:  
+Nombre:  David Piedrahíta Valencia
+ID.:  000577196
 ## Descripción del repositorio
-Reemplace estas líneas por la descripción de su repositorio
+Repositorio de la unidad 3 de programación (10 a.m.).
